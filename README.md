@@ -7,21 +7,24 @@ Original repository [here](https://github.com/anishathalye/neural-style). Script
 
 ### Original Image
 
-![Original image](content/sjc.jpg)
+<img src="content/sjc.jpg" width="500" />
 
 ### John Constable
 
-![John Constable style image](styles/constable.jpg)
+<img src="styles/constable.jpg" width="500" />
+
 ![John Constable style transferred](images/sjc_constable.jpg)
 
 ### Salvador Dali
 
-![Salvador Dali style image](styles/dali.jpg)
+<img src="styles/dali.jpg" width="500" />
+
 ![Salvador Dali style transferred](images/sjc_dali.jpg)
 
 ### Edvard Munch
 
-![Edvard Munch style image](styles/munch.jpg)
+<img src="styles/munch.jpg" width="500" />
+
 ![Edvard Munch style transferred](images/sjc_munch.jpg)
 
 ---
